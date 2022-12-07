@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hey! I'm Steve van Donk 👋
 
-<!--
-**StevevnDonk/StevevnDonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JavaScript, C# and MySQL Enthusiast.
 
-Here are some ideas to get you started:
+### Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I do:
+
+- Fullstack Web Development
+- node.js Development
+
+#### I know:
+
+- C#
+- PHP
+- Python
+- JavaScript
+- Express
+- HTML
+- CSS
+- MySQL
+
+### My Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StevevnDonk&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevevnDonk&theme=radical)
