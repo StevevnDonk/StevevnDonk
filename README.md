@@ -1,21 +1,18 @@
 ## Hey! I'm Steve van Donk 👋
 
-JavaScript, C# and MySQL Enthusiast.
+C#, Flutter and Python Enthusiast.
 
 ### Programming
 
 #### I do:
 
 - Fullstack Web Development
-- node.js Development
-
+- 
 #### I know:
 
 - C#
 - PHP
 - Python
-- JavaScript
-- Express
 - HTML
 - CSS
 - MySQL
