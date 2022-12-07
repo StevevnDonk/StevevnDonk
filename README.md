@@ -7,7 +7,7 @@ C#, Flutter and Python Enthusiast.
 #### I do:
 
 - Fullstack Web Development
-- 
+- App Development
 #### I know:
 
 - C#
