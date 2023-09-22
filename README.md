@@ -1,7 +1,7 @@
 ## Hey! I'm Steve van Donk 
 
 C#, Flutter and Python Enthusiast.
-www.hoi.nl
+
 ### Programming
 
 #### I do:
